@@ -7,6 +7,8 @@
     ```bash
     git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
     ```
+- ## Python 2.7
+
 - ##  从微软下载Windows 10 SDK，安装 "Debugging Tools for Windows"  [...](https://developer.microsoft.com/en-US/windows/downloads/windows-10-sdk/)
 
 - ## 设置 cipd_client 的 http 代理设置
