@@ -1,5 +1,6 @@
-# Windowed and windowless plugins 
-July 03, 2009
+# Windowed and windowless plugins  
+July 03, 2009  
+Evan Martin   
 
 原文: http://neugierig.org/software/chromium/notes/2009/07/windowed-windowless-plugins.html
 
