@@ -1,8 +1,6 @@
-## reset Visual Assist X trial
+## Reset Visual Assist X trial https://github.com/vogeljo/reset-vassistx
 
-### copy from https://github.com/vogeljo/reset-vassistx
-
-````bash
+```bash
 @echo off
 set tempfile="%temp%\1489AFE4.TMP"
 set regkey=HKEY_CURRENT_USER\SOFTWARE\Licenses
