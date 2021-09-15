@@ -1,5 +1,7 @@
 # The std::span as a view of an array
 
+Copy from https://www.nextptr.com/question/qa1339936119/the-stdspan-as-a-view-of-an-array
+
 ## Introduction
 
 An instance of `std::span<T>` is a lightweight object that can refer to a contiguous sequence of objects starting at index zero. `std::span` is added to the standard library in C++20. However, it has been available to C++ developers as part of the [GSL](https://github.com/microsoft/GSL) for quite some time now.
